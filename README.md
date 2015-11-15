@@ -3,4 +3,4 @@
 
 1. Skin Color Classification (A1)
 2. Person Detection (A2)
-3. ace Similarity (A3)
+3. Face Similarity (A3)
