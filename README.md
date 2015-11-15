@@ -1,4 +1,4 @@
-# CVHCI
+# CVHCI_projects
 3 programming projects from the course "Computer Vision for Human-Computer Interaction":
 
 1. Skin Color Classification (A1)
